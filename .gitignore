@@ -1,0 +1,20 @@
+# Environment variables (contains credentials)
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Data directory (auto-generated)
+data/
+
+# Logs
+logs/
+*.log
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo

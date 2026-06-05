@@ -1,0 +1,17 @@
+# Email Automation
+python-dotenv
+
+# Scheduling
+schedule
+
+# Security & Encryption
+cryptography
+
+# PDF Generation
+fpdf2
+
+# Email Handling (IMAP for auto-reply)
+IMAPClient
+
+# Web Frontend
+streamlit
